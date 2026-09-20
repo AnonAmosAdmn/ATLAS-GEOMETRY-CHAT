@@ -9,5 +9,9 @@ Ollama must be installed separately, then:
 --------------------------------------------
 
 ollama pull qwen2.5:7b
+
 ollama serve
+
+--------------------------------------------
+
 streamlit run app.py
